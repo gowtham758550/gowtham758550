@@ -1,6 +1,6 @@
 ### Hi there 👋
 * I am an engineering student👻 with some programming knowledge and logical thinking. 
-* Looking forward to dive into AI. 
+* Looking forward to dive into AI in future. 
 * Likes to develop android applications using kivy and kivymd frameworks. 
 * And some coding👨‍💻 experience in python🐍, HTML, CSS and SQL.
 * Always ready to collaborate👯‍♂️ with everyone. 
