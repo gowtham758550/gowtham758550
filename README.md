@@ -20,10 +20,9 @@
 [<img align="left" alt="gowtham758550 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/gowtham758550)
 <br>
 ### Stats📈
-<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=gowtham758550&show_icons=true&hide_border=true" /> <br>
+![Gowthams's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham758550&count_private=true&show_icons=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham758550)](https://github.com/gowtham758550)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham758550&layout=compact&hide=html)
 
 ### Support me with some 💸
 * [Buy me a coffee](https://www.buymeacoffee.com/gowtham758550) 
