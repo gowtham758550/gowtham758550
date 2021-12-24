@@ -3,7 +3,7 @@
 * I am an engineering student👻 with some programming knowledge and logical thinking. 
 * Looking forward to dive into AI in future. 
 * Likes to develop android applications using kivy and kivymd frameworks. 
-* And some coding👨‍💻 experience in python🐍, HTML, CSS and SQL.
+* And some coding👨‍💻 experience in python🐍, HTML, CSS, JS and SQL.
 * Always ready to collaborate👯‍♂️ with everyone. 
 
 ### Languages and Tools
@@ -36,6 +36,4 @@
 [<img align="left" alt="gowtham758550 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/gowtham758550)
 <br>
 
-### Support me with some 💸
-* [Buy me a coffee](https://www.buymeacoffee.com/gowtham758550) 
 
