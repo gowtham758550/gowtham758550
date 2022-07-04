@@ -1,11 +1,5 @@
 ### Hi there 👋 I'm Gowtham
 
-* I am an engineering student👻 with some programming knowledge and logical thinking. 
-* Looking forward to dive into AI in future. 
-* Likes to develop android applications using kivy and kivymd frameworks. 
-* And some coding👨‍💻 experience in python🐍, HTML, CSS, JS and SQL.
-* Always ready to collaborate👯‍♂️ with everyone. 
-
 ### Languages and Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
