@@ -3,9 +3,6 @@
 ### Stats📈
 <img src="https://komarev.com/ghpvc/?username=gowtham758550&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham758550" />
 
-![Gowthams's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowtham758550&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham758550&layout=compact&hide=html)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham758550&" alt="gowtham758550" /></p>
 
 
